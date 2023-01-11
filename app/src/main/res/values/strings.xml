@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NYC Schools SAT Scores</string>
+    <string name="num_test_takers">Number of test takers:  </string>
+    <string name="scores_title">Average Scores:  </string>
+    <string name="reading_score">Reading: </string>
+    <string name="writing_score">Writing: </string>
+    <string name="math_score">Math: </string>
+    <string name="btn_show_more">Show more</string>
+    <string name="btn_show_less">Show less</string>
+    <string name="results_unavailable">Results currently unavailable</string>
+    <string name="select_school_title">Please select a school: </string>
+    <string name="overview_title">Overview</string>
+    <string name="stats">Statistics</string>
+    <string name="email">email</string>
+    <string name="phone">phone</string>
+    <string name="address">address</string>
+</resources>
